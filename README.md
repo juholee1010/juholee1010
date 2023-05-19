@@ -1,4 +1,4 @@
-[![MasterHead](https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376)]
+![MasterHead](https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376)
 <h1 align="center">Hi 👋, I'm Juho Lee</h1>
 <h3 align="center">A passionate software developer from Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/0*ygaHmPjQnVmEApdT.gif">
